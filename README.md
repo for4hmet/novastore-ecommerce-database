@@ -86,6 +86,16 @@ Note: The script creates the database and inserts sample data. Running it again 
 
 The backup section requires the `C:\Yedek` directory to exist and SQL Server to have permission to write to it.
 
+
+## Project Report
+
+The complete project report includes database design,
+SQL implementations, query results, screenshots,
+and backup verification.
+
+[View the NovaStore Project Report](AhmetTas_NovaStore_Proje.docx)
+
+
 ## Project Context
 
 Developed as part of the TNC Group and Software Persona professional development program.
